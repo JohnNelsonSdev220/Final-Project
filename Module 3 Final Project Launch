@@ -1,0 +1,24 @@
+What to submit now (Module 3 — Project Introduction)
+This is just an introduction/notice, not the final deliverable.
+
+The client (company or non-profit) you’re using as the context.
+
+---I was thinking of using Steam (https://store.steampowered.com/)  for my company.
+
+
+
+The scope (what your system will do—keep it realistic for the term).
+
+---I want to create a game searching GUI, allowing me to browse and search for different games, view carts and checkouts, maybe even a wishlist. I want a lot, but I don't want to get carried away and release an unfinished project.
+
+
+
+The purpose (what tasks the system will accomplish).
+
+--- The purpose would be to have a game you want to buy in mind, let's say Black Ops 7 as an example, search for "Black Ops 7" and be able to click add to cart, then have it appear in the cart where you can checkout.
+
+A list of the tools/technologies you plan to use (e.g., Python, Tkinter/PyQt, Django/Flask, SQLite/PostgreSQL, Bootstrap/Tailwind).
+
+--- Python, Tkinter at least, maybe Django, but I honestly need to just work on it and see what I feel it would suit. 
+
+A link to your GitHub repository (make sure the instructor has access).
