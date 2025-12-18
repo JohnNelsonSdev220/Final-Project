@@ -1,2 +1,1 @@
-I am using Tkinter as I said I would in the project launch, because I wanted to clarify to launch the gui.py file to open up my project store page. I am almost done setting up the classes, and for modules 7 and 8, I will be focusing on the cosmetic aspect of the project.
-trying to make it look less like a blank window.
+If you look, you may see I have a Cart class in my classes.py. I was having trouble getting it to work by adding a button that says add to cart, im not sure exactly what the issue was, but I couldn't figure it out, so I'm taking the loss on that one, which is why you may see there are no references to my cart class anywhere, and it was not included in my class diagram. 
